@@ -1,9 +1,7 @@
 # projetwebmagnus
 
-## Project setup
-```
-npm install
-```
+## Project uses
+Bootstrap, Vue3 CLI, Axios, Vuex
 
 ### Compiles and hot-reloads for development
 ```
